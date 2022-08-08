@@ -6,7 +6,7 @@
 Öncelikle projeyi clonelayın. (buraya sizin reponuzun linki gelecek)
 
 ```
-git clone https://github.com/iremerdgn9/kodluyoruzilkrepo.git 
+git clone https://github.com/ecemiinngg/kodluyoruzilkrepo.git
 ```
 
 ## usage
